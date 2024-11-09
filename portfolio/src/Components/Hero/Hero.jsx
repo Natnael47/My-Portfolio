@@ -6,7 +6,7 @@ const Hero = () => {
     return (
         <div className='hero'>
             <img src={profile_img} alt="" />
-            <h1>I'm Alex Bennett, Full stack Developer Base in Ethiopia</h1>
+            <h1><span>I'm Alex Bennett,</span> Full stack Developer Base in Ethiopia</h1>
             <p>I'm both front and back end developer from Addis Abeba</p>
             <div className="hero-action">
                 <div className="hero-connect">Connect With Me</div>
